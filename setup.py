@@ -23,7 +23,7 @@ setup(name='pil-compat',
       url='http://github.com/prophile/pil-compat',
       classifiers=[
           'Development Status :: 2 - Pre-Alpha',
-          'License :: Other/Proprietary License',
+          'License :: OSI Approved :: MIT License',
           'Programming Language :: Python',
           'Topic :: Multimedia :: Graphics'
       ],
