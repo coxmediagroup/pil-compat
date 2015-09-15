@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='pil-compat',
-      version='1.0.0',
+      version='1.0.0-forkcmg1',
       packages=['Image',
                 'ImageChops',
                 'ImageColor',
